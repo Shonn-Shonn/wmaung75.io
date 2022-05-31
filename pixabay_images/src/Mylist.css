@@ -14,7 +14,7 @@ body{
     justify-content: flex-start;
     width:68%;
     min-height: 650px;
-    background:blue;
+    background:linear-gradient(90deg,rgb(243,101,129)0%, rgb(243,243,102) 100%);
     text-align: center;
     margin:128px auto;
     border-radius: 10px;

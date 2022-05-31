@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "axios": "^0.27.2",
+    "material-ui": "^0.15.0"
+  }
+}
